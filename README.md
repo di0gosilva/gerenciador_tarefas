@@ -10,6 +10,11 @@ Este projeto tem como objetivo aprender sobre backend utilizando Node.js, explor
 - **Banco de Dados**: Nenhum banco de dados, dados são mockados 📂
 - **Outras**: Módulo `fs` do Node.js para manipulação de arquivos e criação de logs 📜
 
+## 🛠️ Funcionalidades 
+
+- Rotas simples: Criação de tarefas, visualização e exclusão. ✅
+- Criação de logs: O servidor gera logs das operações realizadas. 📈
+
 ## 🔧 Como Rodar Localmente 
 
 1. Clone o repositório:
@@ -30,8 +35,3 @@ Este projeto tem como objetivo aprender sobre backend utilizando Node.js, explor
   npm start
 ```
 O servidor estará rodando na porta configurada no arquivo server.js. Você pode testar as rotas com ferramentas como o Postman ou cURL.
-
-## 🛠️ Funcionalidades 
-
-- Rotas simples: Criação de tarefas, visualização e exclusão. ✅
-- Criação de logs: O servidor gera logs das operações realizadas. 📈
