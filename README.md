@@ -1,16 +1,16 @@
-# Gerenciador de Tarefas 🚀
+# Gerenciador de Tarefas
 
-## Objetivo do Projeto 🎯
+## 🎯 Objetivo do Projeto 
 
 Este projeto tem como objetivo aprender sobre backend utilizando Node.js, explorar o módulo `fs` do Node.js, e criar um mini servidor com algumas rotas simples para gerenciamento de tarefas. O projeto simula um sistema de gerenciamento de tarefas com dados mockados e criação de logs. 😎
 
-## Tecnologias Utilizadas ⚙️
+## ⚙️ Tecnologias Utilizadas 
 
 - **Backend**: Node.js 💻
 - **Banco de Dados**: Nenhum banco de dados, dados são mockados 📂
 - **Outras**: Módulo `fs` do Node.js para manipulação de arquivos e criação de logs 📜
 
-## Como Rodar Localmente 🔧
+## 🔧 Como Rodar Localmente 
 
 1. Clone o repositório:
   ```bash
