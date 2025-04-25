@@ -19,13 +19,13 @@ Este projeto tem como objetivo aprender sobre backend utilizando Node.js, explor
 2. Navegue até a pasta do projeto:
   ```bash
   cd gerenciador_tarefas
-
+```
 3. Instale as dependências:
   ```bash
   npm install
-
+```
 4. Inicie o servidor:
   ```bash
   npm start
-
+```
 ## O servidor estará rodando na porta configurada no arquivo server.js. Você pode testar as rotas com ferramentas como o Postman ou cURL.
