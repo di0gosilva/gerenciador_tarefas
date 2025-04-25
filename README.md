@@ -1,36 +1,36 @@
-# Gerenciador de Tarefas
+# Gerenciador de Tarefas 🚀
 
-## 🎯 Objetivo do Projeto 
+## Objetivo do Projeto 🎯
 
 Este projeto tem como objetivo aprender sobre backend utilizando Node.js, explorar o módulo `fs` do Node.js, e criar um mini servidor com algumas rotas simples para gerenciamento de tarefas. O projeto simula um sistema de gerenciamento de tarefas com dados mockados e criação de logs.
 
-## ⚙️ Tecnologias Utilizadas 
+## Tecnologias Utilizadas ⚙️
 
 - **Backend**: Node.js 💻
 - **Banco de Dados**: Nenhum banco de dados, dados são mockados 📂
 - **Outras**: Módulo `fs` do Node.js para manipulação de arquivos e criação de logs 📜
 
-## 🛠️ Funcionalidades 
+## Funcionalidades 🛠️
 
 - Rotas simples: Criação de tarefas, visualização e exclusão. ✅
 - Criação de logs: O servidor gera logs das operações realizadas. 📈
 
-## 🔧 Como Rodar Localmente 
+## Como Rodar o Projeto 🔧
 
-1. Clone o repositório:
+### 1. Clone o repositório
   ```bash
   git clone https://github.com/di0gosilva/gerenciador_tarefas.git
 ```
 
-2. Navegue até a pasta do projeto:
+### 2. Navegue até a pasta do projeto
   ```bash
   cd gerenciador_tarefas
 ```
-3. Instale as dependências:
+### 3. Instale as dependências
   ```bash
   npm install
 ```
-4. Inicie o servidor:
+### 4. Inicie o servidor
   ```bash
   npm start
 ```
