@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo do Projeto 
 
-Este projeto tem como objetivo aprender sobre backend utilizando Node.js, explorar o módulo `fs` do Node.js, e criar um mini servidor com algumas rotas simples para gerenciamento de tarefas. O projeto simula um sistema de gerenciamento de tarefas com dados mockados e criação de logs. 😎
+Este projeto tem como objetivo aprender sobre backend utilizando Node.js, explorar o módulo `fs` do Node.js, e criar um mini servidor com algumas rotas simples para gerenciamento de tarefas. O projeto simula um sistema de gerenciamento de tarefas com dados mockados e criação de logs.
 
 ## ⚙️ Tecnologias Utilizadas 
 
